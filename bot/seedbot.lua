@@ -226,13 +226,13 @@ function create_config( )
     "id",
     "admin"
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {219957358},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[spammer-bot
 An advance Administration bot based on teleseed 
 spammer bot open sourced to:
-[source spammer bot](https://github.com/3pehrdev/spammer-bot)
+[source spammer bot](https://github.com/alijoooon/spamer)
 
 developed and founded
 By
